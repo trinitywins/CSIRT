@@ -30,9 +30,9 @@ This is a collection of people and things that have been advised to look into. W
 ~~https://www.youtube.com/watch?v=Yh1XZf0hLS4~~
 **idk if it was that great**
 
-- [ ] SIFT WS:
-https://www.youtube.com/watch?v=w1ygCP2TeCY
+- [X] SIFT WS:
+https://www.youtube.com/watch?v=w1ygCP2TeCY **informative if new to SIFT**
 
-- [ ] Memory Forensics for Incident Response:
-https://www.youtube.com/watch?v=3xAEsDT-4NA
+- [X] Memory Forensics for Incident Response:
+https://www.youtube.com/watch?v=3xAEsDT-4NA **do not watch after lunch. you will fall asleep. Good information-gets detailed about use of mandiant redline.**
 
