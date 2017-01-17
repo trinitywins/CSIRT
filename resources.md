@@ -122,7 +122,7 @@ Paul's Security Weekly http://securityweekly.com/
 
 "Python Essential Reference" ISBN: 978-0672328626
 
-
+"Applied Network Security Monitoring" Author: Chris Sanders and Jason Smith NOV2013, ISBN-13: 978-0-12-417216-6
 
 
 
