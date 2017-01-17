@@ -33,6 +33,9 @@ http://www.cisco.com/c/en/us/solutions/enterprise/design-zone-security/index.htm
 
 https://digital-forensics.sans.org/blog/2012/12/17/protecting-privileged-domain-accounts-psexec-deep-dive
 
+http://pwnwiki.io
+
+
 
 ## OCTOGITS
 https://github.com/glallen01/csirt-essential-reading
@@ -52,6 +55,8 @@ https://github.com/aptnotes/data
 https://github.com/caesar0301/awesome-pcaptools
 
 https://github.com/onlurking/awesome-infosec
+
+https://github.com/mubix/post-exploitation
 
 
 
