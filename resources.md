@@ -46,6 +46,18 @@ https://github.com/caesar0301/awesome-pcaptools
 https://github.com/onlurking/awesome-infosec
 
 
+## Security Podcasts
+Risky[dot]Biz  http://risky.biz/
+Defensive Security Podcast hosted by Jerry Bell and Andrew Kalat https://defensivesecurity.org/
+Brakeing Down Security hosted by Bryan Brake and Brian Boettcher http://www.brakeingsecurity.com/
+SANS Internet Storm Center https://isc.sans.edu/
+DataBreachToday http://www.databreachtoday.com/
+Advanced Persistent Security http://advancedpersistentsecurity.net/
+The Silver Bullet Security sponsored by Cigital and IEEE Security and Privacy https://www.cigital.com/podcast/
+CyDEFE http://www.cydefe.com/
+Paul's Security Weekly http://securityweekly.com/
+
+
 ## Books // Publishings
 "NSA Methodology for Adversary Obstruction" NSA/CSS IAD AUG2015 MTR U/OO/813823-15
 
