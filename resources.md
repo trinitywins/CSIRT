@@ -36,14 +36,23 @@ https://digital-forensics.sans.org/blog/2012/12/17/protecting-privileged-domain-
 
 ## OCTOGITS
 https://github.com/glallen01/csirt-essential-reading
+
 https://github.com/ThreatHuntingProject/ThreatHunting
+
 https://github.com/meirwah/awesome-incident-response
+
 https://github.com/hslatman/awesome-threat-intelligence
+
 https://github.com/rshipp/awesome-malware-analysis
+
 https://github.com/sbilly/awesome-security
+
 https://github.com/aptnotes/data
+
 https://github.com/caesar0301/awesome-pcaptools
+
 https://github.com/onlurking/awesome-infosec
+
 
 
 ## Security Podcasts
